@@ -1,0 +1,104 @@
+{
+    "villagers": [
+        {
+            "name": "Cyrano",
+            "personality": "Cranky",
+            "birthday-string": "March 9th",
+            "species": "Anteater",
+            "gender": "Male",
+            "catch-phrase": "ah-CHOO",
+            "image": "http://acnhapi.com/images/villagers/1",
+            "icon": "http://acnhapi.com/icons/villagers/1"
+        },
+        {
+            "name": "Antonio",
+            "personality": "Jock",
+            "birthday-string": "October 20th",
+            "species": "Anteater",
+            "gender": "Male",
+            "catch-phrase": "honk",
+            "image": "http://acnhapi.com/images/villagers/2",
+            "icon": "http://acnhapi.com/icons/villagers/2"
+        },
+        {
+            "name": "Mathilda",
+            "personality": "Peppy",
+            "birthday-string": "November 9th",
+            "species": "Anteater",
+            "gender": "Female",
+            "catch-phrase": "snooooof",
+            "image": "http://acnhapi.com/images/villagers/3",
+            "icon": "http://acnhapi.com/icons/villagers/3"
+        },
+        {
+            "name": "Anabelle",
+            "personality": "Peppy",
+            "birthday-string": "February 16th",
+            "species": "Anteater",
+            "gender": "Female",
+            "catch-phrase": "snorty",
+            "image": "http://acnhapi.com/images/villagers/4",
+            "icon": "http://acnhapi.com/icons/villagers/4"
+        },
+        {
+            "name": "Tarina",
+            "personality": "Snooty",
+            "birthday-string": "October 24th",
+            "species": "Anteater",
+            "gender": "Female",
+            "catch-phrase": "sniffff",
+            "image": "http://acnhapi.com/images/villagers/5",
+            "icon": "http://acnhapi.com/icons/villagers/5"
+        },
+        {
+            "name": "Angus",
+            "personality": "Cranky",
+            "birthday-string": "April 30th",
+            "species": "Bull",
+            "gender": "Male",
+            "catch-phrase": "macmoo",
+            "image": "http://acnhapi.com/images/villagers/36",
+            "icon": "http://acnhapi.com/icons/villagers/36"
+        },
+        {
+            "name": "Flèche",
+            "personality": "Lazy",
+            "birthday-string": "October 29th",
+            "species": "Bull",
+            "gender": "Male",
+            "catch-phrase": "chaps",
+            "image": "http://acnhapi.com/images/villagers/37",
+            "icon": "http://acnhapi.com/icons/villagers/37"
+        },
+        {
+            "name": "Beubeu",
+            "personality": "Lazy",
+            "birthday-string": "April 20th",
+            "species": "Bull",
+            "gender": "Male",
+            "catch-phrase": "mrooooo",
+            "image": "http://acnhapi.com/images/villagers/38",
+            "icon": "http://acnhapi.com/icons/villagers/38"
+        },
+        {
+            "name": "Steakos",
+            "personality": "Cranky",
+            "birthday-string": "May 20th",
+            "species": "Bull",
+            "gender": "Male",
+            "catch-phrase": "moocher",
+            "image": "http://acnhapi.com/images/villagers/39",
+            "icon": "http://acnhapi.com/icons/villagers/39"
+        },
+        {
+            "name": "Arnold",
+            "personality": "Jock",
+            "birthday-string": "April 29th",
+            "species": "Bull",
+            "gender": "Male",
+            "catch-phrase": "stubble",
+            "image": "http://acnhapi.com/images/villagers/40",
+            "icon": "http://acnhapi.com/icons/villagers/40"
+        }
+    ]
+}
